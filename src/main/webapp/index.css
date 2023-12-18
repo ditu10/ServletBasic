@@ -1,0 +1,15 @@
+a{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 10px;
+}
+
+#my-form{
+    width: 30%;
+    border: 2px solid black;
+    padding: 20px;
+    margin: auto;
+}
+td{
+    padding: 5px;
+}
